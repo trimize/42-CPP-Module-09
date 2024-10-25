@@ -6,7 +6,7 @@
 /*   By: trimize <trimize@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/24 13:00:54 by trimize           #+#    #+#             */
-/*   Updated: 2024/09/24 18:46:46 by trimize          ###   ########.fr       */
+/*   Updated: 2024/10/25 16:52:37 by trimize          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,6 +19,7 @@
 #include <fstream>
 #include <sstream>
 #include <iterator>
+#include <ctype.h>
 
 class BitcoinExchange
 {
